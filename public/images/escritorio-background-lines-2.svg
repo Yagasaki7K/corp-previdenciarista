@@ -1,0 +1,622 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="859" height="821" viewBox="0 0 859 821">
+    <defs>
+        <filter id="2yuxbr7ema">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="3v33nxxgkb">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="pvfk1ndgzc">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="sh97q463rd">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="1ed7badp0e">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="ce22jb45cf">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="p3q7drn0kg">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="m9dtwavkxh">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="pfix62h7ki">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="e6qyfqrf3j">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="vaawcycxik">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="oeez81zncl">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="m2814ibgom">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="l8p5ifbf6n">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="vw3vsy0pso">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="ydj2flwzqp">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="fzbn8wfnoq">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="6w86dr1her">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="oohuiy617s">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="ijq21xrq4t">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="q388ex1cou">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="9qln6la0av">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="gd8cej20ew">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="r0imqtic6x">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="xesufsy8yy">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="8u4gfbp68z">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="axdoc70h7A">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="kx23qx91qB">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="ozkkt7cijC">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="dz2r0klcjD">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="lcgyy7uqvE">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="f47o0ldpoF">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="jdjzq7t2kG">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="ld2e230qoH">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="k1bbh8692I">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="7eob8pyulJ">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="z3c4phqsbK">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="j9ihkzmx3L">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="lr9ob69qhM">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="y8qki5xxdN">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="c0feqmcrjO">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="oahvvuurjP">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="pcvh8gkniQ">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="w6py4r1seR">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="5k8563nvpS">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="qqtlhd2agT">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="7z5mgxh15U">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="l4p0540c9V">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="sfva3hod0W">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="s0mag5dscX">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="mxiq0sp5zY">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="9pr1gtecfZ">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="jsg3orezwaa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="qp7oq2ealab">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="m38lrakzkac">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="6gmlnd4bkad">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="hlt1tbhwxae">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="d84ndsge2af">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="z9x2uhbmpag">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="63mmy75cuah">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="j7qtm2i1aai">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="i8ihgys0daj">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="1vr71kcz4ak">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="ibrker19sal">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="nz6b9gs85am">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="bfpxzvixean">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="qte8eefqkao">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="d8ni2qbz5ap">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="wx51rerz5aq">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="pwjkc1qg3ar">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="g30ke092uas">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="l6cr870onat">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="flq5ssm95au">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="izyanhsmeav">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="aco0nvylvaw">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="5q114ykilax">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.371749 0 0 0 0 0.630045 0 0 0 0 0.845291 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".512">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g filter="url(#2yuxbr7ema)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M106.718 84.836L1.81 26.737l28.288-25.3 76.808 56.411v-1.124L30.286.312c-.188-.188-.376-.188-.563 0L.686 26.362c-.187.188-.187.188-.187.375 0 .188.187.188.187.375l106.032 58.66v-.936z" transform="translate(750.345 2.874)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#3v33nxxgkb)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M106.344 137.874L2.559 1.81l104.16 57.536v-.937L1.247.124c-.187-.187-.375 0-.562.188-.187.187-.187.375 0 .562l105.658 138.5v-1.5z" transform="translate(750.345 29.112)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#pvfk1ndgzc)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M2.372 64.845l141.252-63.72 13.862 64.47h.937L144.373.375c0-.188-.187-.188-.187-.375h-.375L.31 64.658l2.061.187z" transform="translate(426.253 751.53)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#sh97q463rd)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M92.919 0.312L0.187 29.923 3.185 29.923 92.919 1.249z" transform="translate(760.585 788.14)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#1ed7badp0e)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M77.932 59.598L2.435 3.936l75.872-2.437V.562L1.124 3.186c-.187 0-.375.187-.375.375 0 .187 0 .375.188.562L78.119 60.91l-.187-1.312z" transform="translate(779.319)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#ce22jb45cf)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M104.346 57.724L2.061 51.726l82.615-50.04 19.858 15.369V15.93L85.05.75c-.188-.188-.375-.188-.562 0L.375 51.726c-.188.188-.188.375-.188.563 0 .187.188.374.375.374l103.784 6.185v-1.124z" transform="translate(751.218 318.604)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#p3q7drn0kg)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.124 31.298l16.86-28.674 3.372 28.862h.937l-3.56-30.174c0-.188-.187-.375-.374-.375s-.375 0-.562.187L0 31.486l1.124-.188z" transform="translate(95.541 783.391)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#m9dtwavkxh)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M112.526 29.424L19.794 59.035 22.792 59.035 112.526 30.361zM112.526 24.551L15.298.375c-.187 0-.562 0-.562.375L.124 58.848h.937L15.673 1.312l96.853 24.176v-.937z" transform="translate(740.978 759.027)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#pfix62h7ki)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M95.916 17.18L42.9 47.727 2.81 37.045 96.103 1.25V.312L1.124 36.482c-.187 0-.375.188-.375.376 0 .187.188.374.375.374L42.713 48.29h.374l52.83-30.361v-.75z" transform="translate(758.712 565.117)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#e6qyfqrf3j)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M14.987 65.595L1.124 1.125 54.702 20.24 31.66 65.595h.937l23.23-45.542v-.375c0-.187-.188-.187-.188-.187L.749 0H.375C.187.187.187.187.187.375l14.05 65.033.75.187z" transform="translate(569.502 751.53)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#vaawcycxik)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.623 46.854L24.478 2.062l28.475 45.166h1.124L25.04.938c0-.188-.188-.188-.375-.188s-.375.187-.375.187L.686 46.854h.937z" transform="translate(600.476 770.272)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#oeez81zncl)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M29.6 47.228h1.123L2.435 2.25l96.853 45.354h2.06L1.499.75c-.187 0-.374 0-.561.187-.188.187-.188.375 0 .562l28.662 45.73z" transform="translate(623.83 770.272)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#m2814ibgom)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.937 12.744L99.1 58.661h2.06L2.81 12.557 131.885 1.312l-14.613 57.536h.937L132.821.938V.561c0-.187-.187-.187-.374-.187L1.124 11.995c-.187 0-.375.187-.375.374 0 .188 0 .375.188.375z" transform="translate(623.83 759.027)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#l8p5ifbf6n)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M4.433 31.298L1.06 2.062l45.71 29.611h1.686L.873.937C.686.937.5.75.311.937c-.187 0-.187.187-.187.375l3.56 30.174.749-.188z" transform="translate(113.402 783.391)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#vw3vsy0pso)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M4.87 35.733h-.187c-.187 0-.187-.187-.187-.375L0 13.618v-.375c0-.187.187-.187.375-.187L112.027.124c.187 0 .375.188.562.375 0 .188 0 .375-.375.563L4.871 35.733zM.75 13.806l4.308 20.803L107.531 1.436.749 13.806z" transform="translate(404.646 482.654)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#ydj2flwzqp)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.124 64.658L6.931 1.687l52.08 33.172L41.4 64.845h.937L59.76 35.046c.188-.187 0-.374-.187-.562L6.557.562h-.375c-.187 0-.187.188-.187.375L.187 64.657h.937z" transform="translate(54.328 749.657)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#fzbn8wfnoq)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M53.953 98.955h-.187L.749 65.033c-.187 0-.187-.188-.187-.375 0-.188 0-.375.187-.375L91.233.75c.187-.188.374-.188.562 0 .187.187.187.374.187.562L54.515 98.767c-.187 0-.375.188-.562.188zM1.686 64.658l52.08 33.172L90.483 2.25 1.686 64.658z" transform="translate(59.948 685.936)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#6w86dr1her)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M162.046 101.578L1.31 98.955c-.187 0-.187 0-.374-.188 0-.187-.188-.187 0-.375L38.404.937c0-.187.187-.187.375-.187h.374l123.268 100.079c.187.187.187.375.187.562-.187 0-.375.187-.562.187zM2.06 98.205l158.86 2.624L39.154 2.062 2.061 98.205z" transform="translate(112.402 685.936)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#oohuiy617s)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M46.583 31.486h1.686L1.997 1.499l157.55 2.437-50.393 27.924h1.873l50.394-27.737c.187-.187.187-.375.187-.562 0-.188-.187-.375-.375-.375L.5.562C.31.562.124.75.124.937s0 .375.187.562l46.272 29.987z" transform="translate(113.402 783.391)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#ijq21xrq4t)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M2.185 28.986L51.079 2 34.407 29.174h.936L52.578 1.062c.188-.188 0-.375 0-.563-.187-.187-.375-.187-.562 0L.5 28.986h1.686z" transform="translate(222.057 786.265)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#q388ex1cou)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.81 29.174L18.858 1.249l97.414 28.487h3.185L18.857.312c-.187 0-.374 0-.561.187L.686 28.986l1.124.188z" transform="translate(255.777 786.265)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#9qln6la0av)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M186.149 153.492s0-.187 0 0L.31 78.714c-.187 0-.187-.187-.187-.375 0-.187 0-.375.187-.375L94.354.374c.187 0 .187-.187.375-.187.187 0 .187.188.374.188l91.795 152.18c.188.188 0 .375 0 .562-.374.188-.562.375-.75.375zM1.248 78.152l183.964 73.84L94.354 1.313 1.248 78.152z" transform="translate(516.175 404.815)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#gd8cej20ew)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M92.48 188.1c-.187 0-.374 0-.374-.186L.311 35.734v-.376c0-.187.188-.187.188-.187L77.494.687h.375c.187 0 .187.187.187.375l14.612 186.664c.375 0 .187.188-.187.375.187-.187.187 0 0 0zM1.436 35.547L91.92 185.665 77.494 1.436 1.435 35.546z" transform="translate(609.843 370.206)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#r0imqtic6x)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M15.673 189.1c-.187 0-.375-.186-.375-.374L.686 2.062c0-.188 0-.188.187-.375 0 0 .188-.188.375-.188L65.504.937s.188 0 .375.187c0 .188.187.188 0 .375L16.422 188.726c-.374.188-.562.375-.75.375zM1.623 2.437l14.425 183.666L64.755 1.874l-63.132.562z" transform="translate(686.65 369.206)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#xesufsy8yy)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M152.99 24.676l-94.604 36.17L1.81 17.367 152.99 1.063V.124L.5 16.43c-.188 0-.375.187-.375.374 0 .188 0 .375.187.375l57.513 44.23h.374l94.418-36.171.374-.562z" transform="translate(701.638 540.753)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#8u4gfbp68z)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.06 62.409c-.187 0-.374-.187-.374-.187 0-.188 0-.375.187-.563L64.755.562c.187-.187.375-.187.562 0 .187 0 .187.188.187.375l.188 60.535c0 .187-.188.375-.375.375l-64.256.562zM64.569 1.687L2.185 61.284l62.57-.562-.187-59.035z" transform="translate(686.65 309.233)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#axdoc70h7A)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M105.782 230.707L1.81 281.12 1.435 2.811l104.909 137.562v-1.5L1.435 1.125C1.248.937 1.061.937.873.937.686.937.5 1.124.5 1.312l.374 280.372c0 .187 0 .374.188.374h.374l104.347-50.601v-.75z" transform="translate(750.345 28.112)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#kx23qx91qB)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.75 61.847H.561c-.187 0-.187-.188-.187-.375L.187.937c0-.187 0-.187.188-.375.187 0 .187-.187.374-.187l84.302 9.558c.187 0 .374.187.374.375 0 .187 0 .375-.187.562L1.124 61.847H.749zM.936 1.312l.187 59.41 82.24-49.852L.938 1.312z" transform="translate(751.218 309.233)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#ozkkt7cijC)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M104.721 36.358l-20.232 23.99-82.616-9.371L104.908 1.124V.187L.188 50.977c-.188 0-.188.187-.188.562 0 .187.187.375.375.375l84.301 9.558c.187 0 .187 0 .375-.188l19.67-23.426v-1.5z" transform="translate(751.218 258.632)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#dz2r0klcjD)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M21.106 34.672L1.997 25.114 21.293 2.062V.75L.873 24.926c0 .188-.187.188-.187.375s.187.187.187.375l20.045 9.933.188-.937z" transform="translate(834.646 294.24)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#lcgyy7uqvE)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M21.106 15.93L4.995 3.373l16.11 8.06v-.938L1.436.75c-.187-.188-.374 0-.562.187-.187.187 0 .375.188.562l20.045 15.556V15.93z" transform="translate(834.646 318.604)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#f47o0ldpoF)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.937 93.082l97.602 28.487h3.185L2.248 92.519 178.906 1.625l-42.713 120.132h.937L180.03.874c0-.187 0-.375-.187-.562-.188-.188-.375-.188-.562 0L.749 92.332c-.187 0-.187.188-.187.375 0 .188.187.375.375.375z" transform="translate(273.51 694.432)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#jdjzq7t2kG)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.248 121.756L43.961 1.25l115.773 56.224-142.562 64.283h2.06l141.814-63.908c.187 0 .187-.187.187-.375 0-.187-.187-.375-.187-.375L43.96.312h-.375c-.187 0-.187.187-.187.187L.31 121.756h.937z" transform="translate(409.393 694.432)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#ld2e230qoH)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M52.267 39.732h-.188L.75 1.124C.562.937.562.75.562.562.749.375.937.375 1.124.375l81.304 29.611c.187 0 .375.188.375.375 0 .188-.188.375-.375.375l-30.161 8.996c.187 0 .187 0 0 0zM3.747 2.062l48.707 36.733 28.663-8.621L3.747 2.062z" transform="translate(408.393 517.263)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#k1bbh8692I)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M82.428 65.345L.937 35.733c-.188 0-.375-.187-.375-.375 0-.187.187-.374.375-.374L108.093.312c.187 0 .375 0 .375.187.187.188.187.375 0 .375l-25.853 64.47c.188-.187 0 0-.187 0zM2.435 35.358l79.806 29.05 25.29-63.159L2.435 35.359z" transform="translate(408.393 482.654)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#7eob8pyulJ)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.686 148.245c-.187 0-.187 0 0 0-.375 0-.375-.188-.375-.375L7.992 9.37c0-.187.187-.374.375-.374L38.527 0c.188 0 .376 0 .376.187.187.188.187.188.187.375L1.06 148.057c0 .188-.187.188-.374.188zM8.741 9.558L1.435 143.372 37.965.937 8.742 9.558z" transform="translate(452.48 547.25)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#z3c4phqsbK)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M212.376 75.652L.873 65.345c-.187 0-.187 0-.374-.188v-.375L26.35.312c0-.188.187-.188.187-.188h.375l185.838 74.591c.187 0 .374.375.187.563-.187.187-.375.374-.562.374zM1.436 64.408l208.317 10.12L26.726 1.062 1.436 64.408z" transform="translate(489.948 482.654)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#j9ihkzmx3L)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M22.106 168.673c-.188 0-.188 0 0 0-.375 0-.375-.188-.375-.375L0 .375C0 .187 0 0 .187 0H.75l115.774 90.334c.187 0 .187.187.187.374 0 .188 0 .188-.187.375l-94.23 77.59h-.187zM.936 1.312L22.48 167.36l93.106-76.653L.936 1.312z" transform="translate(494.568 314.856)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#lr9ob69qhM)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M117.022 137.124h-.188L.874 46.604c-.188-.188-.188-.188-.188-.376 0-.187.187-.374.187-.374L101.66.687h.375c.187 0 .187.187.187.375l14.987 135.687c0 .188 0 .375-.187.375 0-.187 0 0 0 0zM1.997 46.228l114.275 89.21-14.8-134.002L1.998 46.228z" transform="translate(493.694 269.002)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#y8qki5xxdN)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M48.707 241.327c-.187 0-.374-.188-.374-.375L.187 40.98v-.375c0-.187.188-.187.375-.187L204.197.124c.187 0 .374 0 .374.188.188.187.188.375 0 .562L48.895 241.14c.187 0 0 .188-.188.188zM1.124 41.356l47.77 198.471L203.448 1.25 1.124 41.356z" transform="translate(547.022 29.112)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#c0feqmcrjO)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M15.86 137.124h-.187c-.187 0-.187-.187-.187-.375L.499 1.062c0-.188 0-.375.187-.375s.375 0 .562.187L93.23 102.078c.187.187.187.187.187.375 0 .187-.187.187-.187.374l-77.37 34.297zM1.435 2.186l14.613 133.626 75.87-33.922L1.436 2.186z" transform="translate(594.856 269.002)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#oahvvuurjP)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M92.855 102.64c-.187 0-.187 0-.374-.187L.499 1.249C.31 1.062.31.874.499.687.686.499.873.499 1.06.499l155.863 40.107c.188 0 .188.187.375.375 0 .187 0 .375-.187.375L93.23 102.453c-.187 0-.187.187-.375.187zM2.185 1.811l90.67 99.705L155.8 41.168 2.185 1.811z" transform="translate(594.856 269.002)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#pcvh8gkniQ)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M156.737 281.246L.686 241.139c-.187 0-.187-.187-.375-.187v-.375L155.988.312c.187-.188.374-.188.562-.188.187 0 .374.188.374.375l.375 280.372c0 .187 0 .187-.187.375h-.375zM1.623 240.576l154.74 39.733-.375-278.31L1.623 240.577z" transform="translate(594.856 29.112)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#w6py4r1seR)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.686 149.119c-.187 0-.187 0-.375-.188-.187-.187-.187-.187-.187-.374L37.966 1.062c0-.188.187-.188.187-.375h.375L198.7 111.449c.188.187.188.187.188.374 0 .188-.188.375-.375.375L.686 149.118zM38.528 1.81L1.06 148.181l196.14-36.545L38.529 1.81z" transform="translate(452.48 546.375)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#5k8563nvpS)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M117.584 94.644h-.187L.31 37.858c-.187 0-.187-.188-.187-.375 0-.188.187-.375.375-.375L198.513 0c.187 0 .375 0 .375.187V.75l-80.93 93.707s-.187.187-.374.187zM1.997 37.483L117.584 93.52 197.389.937 1.997 37.483z" transform="translate(452.48 657.824)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#qqtlhd2agT)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M161.046 112.198h-.187L.686 1.436C.499 1.25.499 1.062.499.874.499.687.686.5.873.5l211.503 10.308c.187 0 .375 0 .375.188v.374l-51.33 100.454c0 .375-.188.375-.375.375zM2.372 1.624l158.487 109.45 50.768-99.33L2.372 1.624z" transform="translate(489.948 546.375)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#7z5mgxh15U)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M55.452 114.822L.562 95.331c-.187 0-.187-.188-.187-.375v-.375L81.304.874c.187-.187.375-.187.562-.187.187 0 .187.375.187.562l-26.04 113.198c0 .188-.187.188-.187.375h-.374zM1.312 94.769l53.765 19.116L80.555 2.935 1.31 94.77z" transform="translate(569.502 656.95)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#l4p0540c9V)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.124 114.822c-.187 0-.187 0-.375-.187 0-.188-.187-.188-.187-.375L26.602 1.062c0-.188.187-.188.374-.375.188 0 .375 0 .375.187L132.634 102.64c.187.187.187.375.187.375 0 .187-.187.187-.374.375L1.124 114.822zM27.351 2.186L1.686 114.072 131.51 102.64 27.351 2.186z" transform="translate(623.83 656.95)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#sfva3hod0W)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.937 101.953c-.188 0-.188 0-.375-.187-.187-.188-.187-.375 0-.562L51.892.75c0-.188.187-.188.375-.188h.374l57.513 44.23c.187 0 .187.187.187.375 0 .187-.187.375-.187.375L1.124 101.578c0 .375-.187.375-.187.375zM52.454 1.874l-50.58 98.767 107.156-55.1L52.454 1.875z" transform="translate(650.057 556.62)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#s0mag5dscX)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M106.22 148.37c-.188 0-.188 0-.375-.188L.562 46.416c-.187-.188-.187-.188-.187-.375s.187-.187.374-.375L151.368.686c.187 0 .374 0 .374.188.188.188.188.375.188.375l-45.336 146.745c0 .188-.187.375-.374.375zM1.686 46.415l104.159 100.641L150.618 1.811 1.686 46.416z" transform="translate(650.057 611.97)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#mxiq0sp5zY)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.937 56.974c-.188 0-.375-.188-.375-.188 0-.187 0-.374.187-.562L109.78.187h.375l41.588 11.058c.188 0 .375.187.375.375 0 .187-.187.375-.375.375L.937 56.974zM109.967.937L5.432 54.725l144.436-43.293L109.966.937z" transform="translate(650.057 601.6)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#9pr1gtecfZ)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.937 74.528c-.188 0-.375-.187-.375-.375 0-.187 0-.375.187-.562L125.328.499h.375c.187 0 .187.188.187.188l25.852 45.916v.375c0 .187-.187.187-.374.187L.937 74.528zm124.39-72.904L3.186 73.216l147.433-26.613-25.29-44.98z" transform="translate(0 640.082)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#jsg3orezwaa)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M26.726 62.346c-.188 0-.375-.187-.375-.187L.5 16.242v-.375c0-.187.187-.187.374-.187L77.87.312c.187 0 .374 0 .374.187.188.188 0 .375 0 .563L27.1 62.159c-.187.187-.374.187-.374.187zM1.623 16.43l25.103 44.792L76.745 1.436 1.623 16.43z" transform="translate(124.642 625.09)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#qp7oq2ealab)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.873 94.206c-.374 0-.562-.374-.374-.562L24.665.5c0-.187.375-.375.562-.375.187 0 .375.375.375.563L1.435 93.832c-.187.187-.374.374-.562.374z" transform="translate(368.179 283.995)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#m38lrakzkac)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.873 94.206c-.187 0-.187 0-.187-.187-.187-.187-.187-.375-.187-.375L24.665.5c0-.187.187-.187.187-.187h.375L126.763 30.86c.188 0 .375.188.375.375 0 .188 0 .375-.187.375L1.248 94.206H.873zM25.414 1.25L1.623 93.082l123.829-61.66L25.414 1.25z" transform="translate(368.179 283.995)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#6gmlnd4bkad)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M36.842 119.758c-.187 0-.375-.188-.375-.375L.686 1.124c0-.187 0-.374.187-.562.188-.187.375-.187.562 0L148.87 105.89c.187.187.187.375.187.375 0 .187-.187.375-.374.375l-111.84 13.119zM1.81 2.249l35.407 116.759 110.153-12.744L1.81 2.249z" transform="translate(368.179 376.703)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#hlt1tbhwxae)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M148.494 168.673h-.187L.873 63.346c-.187 0-.187-.187-.187-.375 0-.187.187-.375.187-.375L126.576 0h.375c.187 0 .187.187.187.375l21.731 167.923c0 .187 0 .375-.187.375h-.188zM1.81 62.97l146.122 104.39L126.39.937 1.81 62.971z" transform="translate(368.179 314.856)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#d84ndsge2af)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.248 84.711c-.187 0-.187 0-.375-.187-.187-.188-.187-.375 0-.562L77.681 1.124c.188-.187.188-.187.375-.187s.187.187.375.375l4.496 21.74c0 .187 0 .375-.188.375L1.435 84.524l-.187.187zM77.681 2.25L4.807 80.963 81.99 23.052 77.681 2.249z" transform="translate(326.965 494.773)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#z9x2uhbmpag)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.375 62.222c-.188 0-.375-.188-.375-.188 0-.187 0-.375.187-.562L81.491.375c.188-.188.375-.188.562 0l51.33 38.607c.188.188.188.375.188.375 0 .187-.188.375-.375.375L.375 62.222zM81.679 1.124L2.06 60.91l129.636-21.928L81.68 1.124z" transform="translate(327.838 517.263)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#63mmy75cuah)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M126.201 139.748c-.187 0-.187 0-.374-.187L.873 23.364c-.187-.188-.187-.375-.187-.375 0-.187.187-.187.375-.375L133.507.124c.188 0 .188 0 .375.188.187 0 .187.187.187.375l-7.68 138.499c.187.375 0 .562-.188.562zM2.185 23.551l123.454 114.885L133.133 1.25 2.185 23.551z" transform="translate(326.965 555.746)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#j7qtm2i1aai)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M153.552 90.833L1.435 186.602 50.517 1.062 153.74 44.729v-.937L50.33.124h-.375c-.187 0-.187.188-.187.375L.311 187.726c0 .188 0 .375.188.375h.374l152.492-96.144.187-1.124z" transform="translate(701.638 370.206)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#i8ihgys0daj)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M153.178 80.026L2.559 96.143 153.552 1.124V0L.5 96.33c-.188.188-.188.376-.188.563 0 .188.188.375.375.375L152.99 80.963l.188-.937z" transform="translate(701.638 461.039)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#1vr71kcz4ak)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M104.159 44.605L3.185 1.875 104.346 7.87v-.937L.75.75c-.187 0-.374.187-.374.374 0 .188 0 .375.187.563l103.597 43.855v-.937z" transform="translate(751.218 369.206)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#ibrker19sal)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.499 63.346c-.188 0-.188 0-.375-.187-.187-.188-.187-.375 0-.563L52.267 1.312c0-.188.187-.188.374-.188L153.803.75c.187 0 .375.187.375.374 0 .188 0 .375-.188.563L1.5 63.346zm51.33-61.097L2.997 61.847 151.555 1.874l-98.726.375z" transform="translate(149.869 624.09)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#nz6b9gs85am)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M124.579 163.425c-.188 0-.188 0-.188-.187L1.124 63.158c-.187-.187-.187-.187-.187-.374 0-.188.187-.375.187-.375L153.428.937h.375c.187.187.187.187.187.375L125.14 163.05c0 .188-.187.375-.561.375.187 0 .187 0 0 0zM2.248 63.16L124.391 162.3l28.85-160.052L2.248 63.159z" transform="translate(149.869 624.09)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#bfpxzvixean)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M1.06 48.103c-.187 0-.374-.188-.374-.375 0-.188 0-.375.187-.563L126.576.312c.187 0 .375 0 .562.187.187.188.187.375 0 .563L102.597 47.54c0 .188-.187.188-.375.188l-101.161.375zm124.767-46.48L3.497 47.166l98.538-.374 23.792-45.167z" transform="translate(201.45 578.236)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#qte8eefqkao)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.937 162.425H.749c-.187-.187-.187-.187-.187-.375L29.786.5c0-.188.188-.188.188-.376h.374l149.307 69.719c.188 0 .188.187.188.374 0 .188 0 .375-.188.375L1.124 162.612c0-.187 0-.187-.187-.187zM30.536 1.062L1.686 161.113 178.719 70.03 30.536 1.062z" transform="translate(273.51 625.09)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#d8ni2qbz5ap)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M150.555 117.258c-.187 0-.187 0 0 0L.873 47.728c-.187 0-.187-.188-.187-.188v-.375L25.227.687c0-.188.187-.188.375-.188.187 0 .187 0 .374.188L150.93 116.884c.187.187.187.374 0 .562-.188-.188-.375-.188-.375-.188zM1.623 46.978l146.497 68.219L25.79 1.249 1.622 46.978z" transform="translate(302.611 578.236)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#wx51rerz5aq)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M53.328 50.351L1.623 31.048 53.515 1.249V.312L.31 30.86c-.187 0-.187.188-.187.375 0 .188.187.375.375.375L53.328 51.29v-.938z" transform="translate(800.926 581.984)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#pwjkc1qg3ar)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.686 69.53c-.187 0-.187 0-.375-.187-.187-.187 0-.562.188-.562L102.035.937c.187-.187.562 0 .562.187.187.188 0 .563-.187.563L.873 69.53H.686z" transform="translate(392.533 215.526)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#g30ke092uas)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M102.41 100.08s-.188 0 0 0L.686 69.53c-.187 0-.375-.187-.375-.374 0-.188 0-.375.188-.375L102.035.937c.187 0 .375-.187.375 0 .187 0 .187.187.187.375v98.58c0 .187 0 .187-.187.375.187-.188 0-.188 0-.188zM1.81 68.967l100.225 30.174V2.062L1.81 68.968z" transform="translate(392.533 215.526)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#l6cr870onat)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M.375 100.08H.187C0 100.08 0 99.891 0 99.703V1.124C0 .937 0 .75.187.75h.375l100.974 53.225c.188 0 .188.188.188.375 0 .188-.188.375-.188.375L.375 100.079zM.749 1.873v97.08l99.476-44.604L.749 1.874z" transform="translate(494.568 215.526)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#flq5ssm95au)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M102.035 201.095h-.187L.873 147.682c-.187-.187-.374-.374-.187-.562L53.515.562c0-.187.187-.375.375-.375.187 0 .374.188.374.375l48.146 199.971c0 .188 0 .375-.188.375 0 .187 0 .187-.187.187zM1.623 147.12l99.663 52.664L53.89 2.249 1.623 147.12z" transform="translate(493.694 69.343)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#izyanhsmeav)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M99.1 80.588L2.249 145.996 46.834 1.312l52.267 67.282v-1.5L46.834.187C46.647 0 46.647 0 46.46 0c-.187 0-.374.187-.374.375L.749 147.12c0 .188 0 .375.188.562h.374L98.726 81.9l.375-1.312z" transform="translate(754.965 612.844)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#aco0nvylvaw)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M98.539 91.02L2.435 67.031l96.666-65.22V.687L1.124 66.844c-.187.187-.187.187-.187.375 0 .187.187.375.374.375L98.726 91.77l-.187-.75z" transform="translate(754.965 692.558)"/>
+                            </g>
+                        </g>
+                        <g filter="url(#5q114ykilax)" transform="translate(-1061 276) translate(0 80) translate(1061 -356) translate(0 .5)">
+                            <g>
+                                <path fill="#C4C4C4" fill-rule="nonzero" d="M54.14 67.282L2.997 1.312l51.518 19.116v-.937L1.686 0c-.187 0-.375 0-.562.187-.187.188-.187.375 0 .563L53.953 68.78l.187-1.5z" transform="translate(799.926 612.844)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

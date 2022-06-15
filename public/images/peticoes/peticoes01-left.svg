@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="269" height="220" viewBox="0 0 269 220">
+    <defs>
+        <rect id="b" width="257" height="208" rx="4"/>
+        <filter id="a" width="109.3%" height="111.5%" x="-3.1%" y="-2.9%" filterUnits="objectBoundingBox">
+            <feOffset dx="4" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.170427229 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(2)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <path fill="#F5F7FA" d="M2 168h257v36a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4v-36z"/>
+        <g transform="translate(227 176)">
+            <circle cx="10.5" cy="10.5" r="10.5" fill="#E6EAF1"/>
+            <text fill="#000" fill-opacity=".64" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10">
+                <tspan x="5" y="14">+0</tspan>
+            </text>
+        </g>
+        <text fill="#000" fill-opacity=".64" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="10" font-weight="500" transform="translate(2)">
+            <tspan x="17" y="27">PETIÇÕES INICIAIS</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".64" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" transform="translate(2)">
+            <tspan x="17" y="62">Petição inicial. Aposentadoria por</tspan> <tspan x="17" y="80">idade. Reforma da Previdência . EC</tspan> <tspan x="17" y="98">103/2019.</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".299" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" transform="translate(2)">
+            <tspan x="191" y="27">07/05/2019</tspan>
+        </text>
+    </g>
+</svg>
