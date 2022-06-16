@@ -98,7 +98,7 @@ const NavBar = () => {
                     )
                   })}
                 </div>
-                : null
+                : null || {}
               }
             </li>
             <li>
@@ -111,7 +111,7 @@ const NavBar = () => {
                     )
                   })}
                 </div>
-                : null
+                : null || {}
               }
             </li>
           </ul>

@@ -26,16 +26,16 @@ const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' 
     }, [isShowing]);
 
     const [escritorios, setEscritorios] = useState([]);
-    const mapEl = useRef(null);
+    const mapEl = useRef(null || {});
     const [modalMapaOpen, setModalMapaOpen] = useState(false);
-    const [escritorioSelecionado, setEscritorioSelecionado] = useState(null);
+    const [escritorioSelecionado, setEscritorioSelecionado] = useState(null || {});
     const ampliarMapa = () => {
         setModalMapaOpen(true);
     };
-    const [markerAtualSelecao, setMarkerAtualSelecao] = useState(null);
+    const [markerAtualSelecao, setMarkerAtualSelecao] = useState(null || {});
     const listMarkers = useRef([]);
-    const map = useRef(null);
-    const hoverMarker = useRef(null);
+    const map = useRef(null || {});
+    const hoverMarker = useRef(null || {});
     const getEscritorios = () => {
         return escritorios.map((item) => {
             const ref = React.createRef();
@@ -81,7 +81,7 @@ const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' 
             map.current.setLayoutProperty('country-label', 'text-field', ['get', 'name_pt']);
         });
 
-        let param = null;
+        let param = null || {};
         const loadInit = async function () {
             const bounds = map.current.getBounds();
             const parameters = {
@@ -138,11 +138,11 @@ const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' 
             if (find) {
                 setEscritorioSelecionado(find.escritorio);
             } else {
-                setEscritorioSelecionado(null);
+                setEscritorioSelecionado(null || {});
             }
         });
-        let ultimoHover = null;
-        let ultimoLaranjaHover = null;
+        let ultimoHover = null || {};
+        let ultimoLaranjaHover = null || {};
         map.current.on('mousemove', function (e) {
             const find = listMarkers.current.find(
                 (item) => item.marker.getElement() === e.originalEvent.target.closest('div')
@@ -178,11 +178,11 @@ const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' 
                     .addTo(map.current);
                 // ultimoLaranjaHover = hoverMarker.current;
             } else {
-                ultimoHover = null;
+                ultimoHover = null || {};
                 if (hoverMarker.current) {
                     hoverMarker.current.remove();
                 }
-                setEscritorioSelecionado(null);
+                setEscritorioSelecionado(null || {});
             }
         });
 
@@ -327,7 +327,7 @@ const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' 
             ,
             document.querySelector('#__next')
         )
-        : null;
+        : null || {};
 };
 
 export default MapaMobile;

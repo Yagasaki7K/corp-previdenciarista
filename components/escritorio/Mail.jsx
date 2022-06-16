@@ -307,7 +307,7 @@ const ModalMail = ({ isShowing, close, captcha, bodyTracking, catalogo }) => {
       </>,
       document.querySelector('#__next')
     )
-    : null;
+    : null || {};
 };
 
 export default ModalMail;

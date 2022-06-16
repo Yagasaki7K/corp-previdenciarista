@@ -16,8 +16,8 @@ export const getStaticProps = async () => {
   const originalUrl = "";
 
   const params = {
-    tipoDeBeneficio: null,
-    q: null,
+    tipoDeBeneficio: null || {},
+    q: null || {},
   };
 
   let cidadeTitle = '';

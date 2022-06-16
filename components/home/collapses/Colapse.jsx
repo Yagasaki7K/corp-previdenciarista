@@ -4,7 +4,7 @@ const CollapseHome = ({ props }) => {
   const [active, setActive] = useState(false)
   const [height, setHeight] = useState('0px')
 
-  const contentSpace = useRef(null)
+  const contentSpace = useRef(null || {})
 
   function toggleAccordion() {
     setActive((prevState) => !prevState)

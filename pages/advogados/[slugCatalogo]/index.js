@@ -23,8 +23,8 @@ function Escritorio({queryParams, catalogo, membros, originalUrl}) {
 
 export const getStaticPaths = async () => {
   const params = {
-    tipoDeBeneficio: null,
-    q: null,
+    tipoDeBeneficio: null || {},
+    q: null || {},
   };
 
   const {escritorios} = await fetchCatalogos(params);

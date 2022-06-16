@@ -8,7 +8,7 @@ import Footer from '../../components/footer/Footer';
 import ContainerFilterListWrapper from '../../components/jurisprudencia';
 
 const Jurisprudências = ({queryParams, decisoes: propDecisoes, hasMore: propsHasmore, next: propNext, isMobile }) => {
-  const [ischangeColor, setIsChangeColor] = useState(null);
+  const [ischangeColor, setIsChangeColor] = useState(null || {});
 
   useEffect(() => {
     window.addEventListener('scroll', checkHeader);

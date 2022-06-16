@@ -15,7 +15,7 @@ const classFilterButton = `flex h-[30px] normal-case	items-center	`;
 
 const ListWrapperContainer = ({ decisoes, hasMore, setHasMore, next: propNext, isLoading, setIsLoading, isLoadingMore, loadMore }) => {
   const Router = useRouter()
-  const [loadingDecisaoId, setLoadingDecisaoId] = useState(null);
+  const [loadingDecisaoId, setLoadingDecisaoId] = useState(null || {});
   const [showModal, setShowModal] = useState(false);
   const [textModal, setTextModal] = useState("");
 

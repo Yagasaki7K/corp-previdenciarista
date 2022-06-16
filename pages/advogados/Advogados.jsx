@@ -23,7 +23,7 @@ const showPosition = (position, callback) => {
   });
 };
 
-const getLocation = (callback, callbackError = null) => {
+const getLocation = (callback, callbackError = null || {}) => {
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(
       (position) => showPosition(position, callback),
@@ -61,18 +61,18 @@ const skeletons = [1, 2, 3];
 function Advogados({props}) {
   const { executeRecaptcha } = useGoogleReCaptcha();
   const [cidades, setCidades] = useState({
-    servico: null,
+    servico: null || {},
     cidades: [],
     listaCidadeOpen: false,
-    cidadeSelecionada: null,
-    cidadeSelecionadaId: null,
-    cidadeEstadoSelecionado: null,
-    filterCidade: { nome: null },
+    cidadeSelecionada: null || {},
+    cidadeSelecionadaId: null || {},
+    cidadeEstadoSelecionado: null || {},
+    filterCidade: { nome: null || {} },
   });
-  const [localizationNavegador, setLocalizationNavegador] = useState(null);
+  const [localizationNavegador, setLocalizationNavegador] = useState(null || {});
   const [escritoriosOffice, setEscritoriosOffice] = useState(props?.escritorios || []);
   const [state, setState] = useState({
-    servico: null,
+    servico: null || {},
     q: '',
     tipo: [],
     tipoDeBeneficio: [],
@@ -80,7 +80,7 @@ function Advogados({props}) {
     isLoading: true,
     isLoadingMore: false,
     next: props?.next || false,
-    loadingPeticaoId: null,
+    loadingPeticaoId: null || {},
     showMapaMobile: false,
     especialidades: props?.especialidades || []
   });
@@ -89,8 +89,8 @@ function Advogados({props}) {
   const [showMapaMobile, setShowMapaMobile] = useState(false);
 
   const getUf = (features) => {
-    if (!features || !features.length) return null;
-    if (!features[0] || !features[0].context) return null;
+    if (!features || !features.length) return null || {};
+    if (!features[0] || !features[0].context) return null || {};
     return features[0].context[0].short_code.split('-')[1];
   };
   
@@ -103,8 +103,8 @@ function Advogados({props}) {
           )
           .then(async (r) => {
             const { features } = r.data;
-            let cidade = null;
-            let uf = null;
+            let cidade = null || {};
+            let uf = null || {};
             if (features && features.length) {
               cidade = features[0].text;
               uf = getUf(features);
@@ -230,7 +230,7 @@ function Advogados({props}) {
               value: filter.especialidadeCompleto.value,
               desc: filter.especialidadeCompleto.desc,
             }
-            : null,
+            : null || {},
           }));
           buscarCatalogos();
           getCidadeMap();

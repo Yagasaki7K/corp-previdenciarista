@@ -22,7 +22,7 @@ const AssinePage = ({originalUrl = "", anual = {}, mensal = {}}) => {
     {
       intervalo: "MENSAL",
       value: mensal.valor,
-      discount: null
+      discount: null || {}
     }
   ];
   return (
