@@ -12,6 +12,8 @@ const SubMenu = ({props}) => {
             src={props.urlImage}
             alt=""
             className="my-2.5	mx-2.5 w-5 h-5"
+            width={20}
+            height={20}
           />
           <span>{props.subTitle}</span>
         </a>
