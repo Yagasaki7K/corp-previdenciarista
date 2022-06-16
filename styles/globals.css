@@ -103,6 +103,34 @@ a {
     .hover-item span {
         font-weight: bold;
     }
+
+    .buttom-blog {
+        display: flex;
+        justify-content: row;
+    }
+
+    .arrow-icon {
+        margin-left: 10px;
+    }
+
+    .footer-orange {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .footer-orange button {
+        margin-left: 150px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .bgred {
+        background: #ff0000;
+    }
 }
 
 .containerCarousel {
