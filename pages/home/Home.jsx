@@ -41,31 +41,31 @@ const HomePage = ({ blog, noticias, colunas, decisoes, originalUrl }) => {
                     </div>
                 </div>
 
-                <div className="flex flex-col pt-12 px-5 items-center">
-                    <div>
-                        <h1 className="text-title30 pt-4 font-bold	text-gray-800 max-w-lg">
-                            Faça um cálculo previdenciário em até 5 minutos!
-                        </h1>
-                    </div>
-                    <div className="mt-8">
-                        Reforma da previdência, cálculo automático a partir do CNIS, cálculo de qualidade de
+                <div className="flex flex-col pt-12 px-5 items-center home2-content">
+                    <h1 className="text-title30 pt-4 font-bold	text-gray-800 max-w-lg">
+                        Faça um cálculo previdenciário em até 5 minutos!
+                    </h1>
+                    <div className="mt-8 home-content-calc">
+                        <p>Reforma da previdência, cálculo automático a partir do CNIS, cálculo de qualidade de
                         segurado, conversão de tempos especiais em comum e especiais em especiais, checagem de
                         pendências, panorama completo dos benefícios, relatórios de tempo e RMI.
-                        <p className="text-sub_title20	font-semibold mt-1.5">
+                        </p>
+                        
+                        <p className="text-sub_title20 font-semibold mt-1.5 home-content-bold">
                             FAÇA QUANTOS CÁLCULOS QUISER, SEM LIMITES!
                         </p>
                     </div>
                 </div>
             </div>
 
-            <div className="pt-8 px-5 drop-shadow-sm">
+            <div className="pt-8 px-5 drop-shadow-sm home-three-content">
                 {OptionCollapse.map((data, index) => {
                     return (
                         <CollapseHome key={index} props={data} />
                     )
                 })}
             </div>
-            <div className="flex flex-col mt-40 px-5	items-center">
+            <div className="flex flex-col mt-40 px-5 items-center home-four-content">
                 {OptionContainerHome.map((data, index) => {
                     return (
                         <ContainerHome key={index} props={data} />

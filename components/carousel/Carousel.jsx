@@ -108,7 +108,7 @@ const CarouselComponent = () => {
           <div className="CardCarousel" key={index}>
             <a href={link} target="_blank" rel="noreferrer">
               <img
-                className="opacity-20 grayscale hover:grayscale-0 hover:opacity-100"
+                className="opacity-20 grayscale hover:grayscale-0 hover:opacity-100 img-carousel"
                 src={img}
                 alt={title}
                 style={{width: "150px", height: "150px"}}

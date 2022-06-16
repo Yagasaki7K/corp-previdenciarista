@@ -14,13 +14,13 @@ const CollapseHome = ({ props }) => {
   return (
     <>
       <div
-        className="flex flex-col mt-4 pl-6 rounded-md	py-4 shadow-md"
+        className="flex flex-col mt-4 pl-6 rounded-md	py-4 shadow-md div-three-content"
       >
         <button
           className="box-border appearance-none cursor-pointer focus:outline-none flex items-center justify-between"
           onClick={toggleAccordion}
         >
-          <p className="">{props.title}</p>
+          <p className="home-title">{props.title}</p>
           <div className="mr-4">
             {active ?
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
