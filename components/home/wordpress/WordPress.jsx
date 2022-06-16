@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { Image } from 'next/image'
 import { formatDate } from '../../../pages/api/utils/global';
 import ArrowButton from '../../../atoms/buttonIcon';
 
@@ -45,7 +46,7 @@ const WordpressSection = (props) => {
                                     href={section.key === "decisoes" ? item.slug : item.link}
                                 >
                                     <a className="mb-4">
-                                        {item.imgSrc && <img src="/images/menu/noun-liquidacao.svg" alt={section.key} />}
+                                        {item.imgSrc && <Image src="/images/menu/noun-liquidacao.svg" alt={section.key} />}
                                         <span className="text-prev-home-date_word_pres text-size12">
                                             {formatDate(section.key === "decisoes" ? item.dataPublicacao : item.date)}
                                         </span>

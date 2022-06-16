@@ -2,6 +2,7 @@ import { useCallback, useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import Link from "next/link";
+import { Image } from 'next/image'
 import MapPinIcon from "../../../atoms/Icons/MapPin";
 import EspecialidadeIcon from "../../../atoms/Icons/Especialidade";
 import PhoneIcon from "../../../atoms/Icons/PhoneIcon";
@@ -155,7 +156,7 @@ function Escritorio({catalogo, membros, queryParams, originalUrl}) {
         >
           {catalogo && catalogo?.urlImagemEscritorioExibicao ? (
             <div className="pt-1 rounded">
-              <img
+              <Image alt=""
                 style={{
                   height: 88,
                   width: 88,
@@ -309,7 +310,7 @@ function Escritorio({catalogo, membros, queryParams, originalUrl}) {
       </div>
 
       <div className="mb-10 py-8" style={{ backgroundColor: "#485158", color: 'white'}}>
-        <img className="ml-6 pt-6" src="/images/prev-icon-footer.svg" alt="Previdenciárista" style={{width: "77px", height: "62px"}} />
+        <Image className="ml-6 pt-6" src="/images/prev-icon-footer.svg" alt="Previdenciárista" style={{width: "77px", height: "62px"}} />
         {OptionFooter.map((data, index) => {
           return (
             <Footer key={index} props={data} />
