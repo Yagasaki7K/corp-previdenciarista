@@ -33,106 +33,6 @@ a {
     margin-bottom: 12px;
 }
 
-@media (min-width: 1024px) {
-    .navbar {
-        padding: 20px 0px;
-        margin-left: -40px;
-        display: flex;
-        justify-content: space-around;
-    }
-
-    .navbar-items {
-        width: 400px;
-        display: flex;
-        margin-top: 10px;
-    }
-
-    .navbar-items a {
-        margin-right: 40px;
-        font-weight: bold;
-        color: #909090;
-    }
-
-    .navbar-button {
-        background:#3375ab;
-        padding: 10px;
-        width: 120px;
-        height: 40px;
-        margin-top: -10px;
-        border-radius: 5px;
-    }
-
-    .navbar-button p {
-        color: #fff;
-        width: 200px;
-    }
-
-    .hover-item {
-        display: flex;
-        width: 200px;
-        height: 300px;
-        margin-left: 400px;
-        background: #fff;
-        z-index: 2;
-    }
-
-    .hover-item a{
-        color: #909090;
-        
-    }
-
-    .grid {
-        display: grid;
-    }
-
-    .grid-template-columns {
-        grid-template-columns: 300px 300px;
-    }
-
-    .lihidden {
-        list-style: none;
-    }
-
-    .hover-item img {
-        width: 20px;
-        margin-top: 15px;
-        height: 20px;
-        margin-right: 200px;
-    }
-
-    .hover-item span {
-        font-weight: bold;
-    }
-
-    .buttom-blog {
-        display: flex;
-        justify-content: row;
-    }
-
-    .arrow-icon {
-        margin-left: 10px;
-    }
-
-    .footer-orange {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        font-size: 25px;
-    }
-
-    .footer-orange button {
-        margin-left: 150px;
-        padding: 10px;
-        border-radius: 5px;
-    }
-
-    .bgred {
-        background: #ff0000;
-    }
-}
-
 .containerCarousel {
     position: relative;
     max-width: 1300px;
@@ -462,6 +362,76 @@ a {
 }
 
 @media (min-width: 1024px) {
+    .navbar {
+        padding: 20px 0px;
+        margin-left: -40px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .navbar-items {
+        width: 400px;
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .navbar-items a {
+        margin-right: 40px;
+        font-weight: bold;
+        color: #909090;
+    }
+
+    .navbar-button {
+        background:#3375ab;
+        padding: 10px;
+        width: 120px;
+        height: 40px;
+        margin-top: -10px;
+        border-radius: 5px;
+    }
+
+    .navbar-button p {
+        color: #fff;
+        width: 200px;
+    }
+
+    .hover-item {
+        display: flex;
+        width: 200px;
+        height: 300px;
+        margin-left: 400px;
+        background: #fff;
+        z-index: 2;
+    }
+
+    .hover-item a{
+        color: #909090;
+        
+    }
+
+    .grid {
+        display: grid;
+    }
+
+    .grid-template-columns {
+        grid-template-columns: 300px 300px;
+    }
+
+    .lihidden {
+        list-style: none;
+    }
+
+    .hover-item img {
+        width: 20px;
+        margin-top: 15px;
+        height: 20px;
+        margin-right: 200px;
+    }
+
+    .hover-item span {
+        font-weight: bold;
+    }
+
     body {
         overflow-x:hidden;
     }
@@ -616,6 +586,49 @@ a {
     .bgred {
         background-color: #ff0000;
     }
+
+    .buttom-blog {
+        display: flex;
+        justify-content: row;
+    }
+
+    .arrow-icon {
+        margin-left: 10px;
+    }
+
+    .footer-orange {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .footer-orange button {
+        margin-left: 150px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .footer-home {
+        padding: 20px;
+    }
+
+    .footer-home img {
+        margin-left: 5px;
+        margin-top: 20px;
+    }
+
+    .footer-content {
+        display: flex;
+        margin-left: 100px;
+        margin-top: -70px;
+    }
+
+    .footer-content h1 {
+        margin-right: 250px;
+    }
 }
 
 @media (min-width: 1920px) {
@@ -664,6 +677,20 @@ a {
     .blog-container {
         margin: 0px 0px 100px 500px;
         width: 500px;
+    }
+
+    .footer-home img {
+        margin-left: 100px;
+    }
+
+    .footer-content {
+        display: flex;
+        margin-left: 400px;
+        margin-top: -70px;
+    }
+
+    .footer-content h1 {
+        margin-right: 250px;
     }
 }
 

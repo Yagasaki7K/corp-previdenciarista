@@ -86,9 +86,9 @@ const HomePage = ({ blog, noticias, colunas, decisoes, originalUrl }) => {
                 <ContainerTrial />
             </div>
 
-            <div className="mb-10 pb-10" style={{ backgroundColor: "#485158", color: 'white' }}>
+            <div className="mb-10 pb-10 footer-home" style={{ backgroundColor: "#485158", color: 'white' }}>
                 <img className="ml-6 pt-6" src="/images/prev-icon-footer.svg" alt="Previdenciárista" style={{ width: "77px", height: "62px" }} />
-                <div>
+                <div className="footer-content">
                     {OptionFooter.map((data, index) => {
                         return (
                             <Footer key={index} props={data} />
@@ -96,7 +96,7 @@ const HomePage = ({ blog, noticias, colunas, decisoes, originalUrl }) => {
                     })}
                 </div>
             </div>
-            <FixedBottom />
+            {/* <FixedBottom /> */}
         </div>
     );
 };
