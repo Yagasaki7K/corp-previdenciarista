@@ -1,4 +1,4 @@
-import { Image } from 'next/image';
+import Image from 'next/image';
 import PropTypes from 'prop-types';
 import 'antd/lib/avatar/style/index.css';
 import MapPinIcon from '../../atoms/Icons/MapPin';

@@ -6,7 +6,7 @@ import { OptionFooter } from "../../components/footer/option";
 import NavBar from "../../components/navbar/navBarAdvogados";
 import CatalogoCard from "../../components/advogados/Card"
 import FixedBottom from '../../atoms/fixedBottom';
-import { Image } from 'next/image'
+import Image from 'next/image'
 
 import ContentLoader from 'react-content-loader';
 import { useGoogleReCaptcha, } from 'react-google-recaptcha-v3';

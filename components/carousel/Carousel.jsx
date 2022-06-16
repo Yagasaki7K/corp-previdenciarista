@@ -1,5 +1,5 @@
 import React from "react";
-import { Image } from 'next/image'
+import Image from 'next/image'
 import Slider from 'react-slick';
 
 const CarouselComponent = () => {
@@ -110,9 +110,10 @@ const CarouselComponent = () => {
                         <a href={link} target="_blank" rel="noreferrer">
                             <Image
                                 className="opacity-20 grayscale hover:grayscale-0 hover:opacity-100 img-carousel"
+                                width={150}
+                                height={150}
                                 src={img}
                                 alt={title}
-                                style={{ width: "150px", height: "150px" }}
                             />
                         </a>
                     </div>

@@ -1,6 +1,6 @@
 
 import { useState, useEffect, useRef } from 'react';
-import { Image } from 'next/image';
+import Image from 'next/image';
 import ReactDOM from 'react-dom';
 import mapboxgl from 'mapbox-gl';
 import axios from 'axios';

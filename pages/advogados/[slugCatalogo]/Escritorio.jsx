@@ -2,7 +2,7 @@ import { useCallback, useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import Link from "next/link";
-import { Image } from 'next/image'
+import Image from 'next/image'
 import MapPinIcon from "../../../atoms/Icons/MapPin";
 import EspecialidadeIcon from "../../../atoms/Icons/Especialidade";
 import PhoneIcon from "../../../atoms/Icons/PhoneIcon";

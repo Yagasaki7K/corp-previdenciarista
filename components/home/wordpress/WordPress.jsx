@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Image } from 'next/image'
+import Image from 'next/image'
 import { formatDate } from '../../../pages/api/utils/global';
 import ArrowButton from '../../../atoms/buttonIcon';
 
