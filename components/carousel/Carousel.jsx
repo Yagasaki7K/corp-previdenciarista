@@ -101,7 +101,7 @@ const CarouselComponent = () => {
 
   return (
     <div className="containerCarousel">
-      <h2 className="text-center text-title30	font-semibold	text-prev-default-textos">O Previdenciarista na imprensa.</h2>
+      <h2 className="text-center text-title30	font-semibold	text-prev-default-textos title-carousel">O Previdenciarista na imprensa.</h2>
 
       <Slider className="sliderCarousel" {...settings}>
         {logos.map(({ img, link, title }, index) => (
