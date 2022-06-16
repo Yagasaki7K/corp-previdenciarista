@@ -6,7 +6,7 @@ import MapPinIcon from '../../atoms/Icons/MapPin';
 import Label from "./Label";
 
 import mapboxgl from 'mapbox-gl';
-import { fetchCatalogos, fetchCidades } from '../../pages/api/services/advogados';
+import { fetchCatalogos, fetchCidades } from '/pages/api/services/advogados';
 import Select from './Select';
 import { DebounceInput } from 'react-debounce-input';
 
