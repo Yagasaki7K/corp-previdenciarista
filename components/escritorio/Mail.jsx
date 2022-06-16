@@ -2,7 +2,7 @@ import { useState } from "react";
 import ReactDOM from "react-dom";
 import { Form, Input, Button, Checkbox } from "antd";
 import InputMask from 'react-input-mask';
-import { postCatalogoEmail } from "/pages/api/services/advogados";
+import { postCatalogoEmail } from "../../pages/api/services/advogados";
 
 const ModalMail = ({ isShowing, close, captcha, bodyTracking, catalogo }) => {
   const [sucesso, setSucesso] = useState(false);

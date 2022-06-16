@@ -1,8 +1,8 @@
 import { useState, useMemo, memo } from 'react';
-import { postTracking, getPhone } from "/pages/api/services/advogados";
+import { postTracking, getPhone } from "../../pages/api/services/advogados";
 import { Form, Input, Button, Checkbox } from "antd";
 import InputMask from 'react-input-mask';
-import { postCatalogoEmail } from "/pages/api/services/advogados";
+import { postCatalogoEmail } from "../../pages/api/services/advogados";
 import { useGoogleReCaptcha } from "react-google-recaptcha-v3";
 
 const FormAdvogadosDetails = ({ catalogo, bodyTracking, setState, setIsLoading, state, queryParams, originalUrl, membros }) => {

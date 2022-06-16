@@ -4,7 +4,7 @@ import { Image } from 'next/image';
 import ReactDOM from 'react-dom';
 import mapboxgl from 'mapbox-gl';
 import axios from 'axios';
-import { fetchCatalogos } from "/pages/api/services/advogados";
+import { fetchCatalogos } from "../../pages/api/services/advogados";
 
 mapboxgl.accessToken =
     'pk.eyJ1IjoicmVuYW5ubyIsImEiOiJjanZ3MG1ybGExNGJmNDVwMWs0eG9lejNrIn0.5bOyVV_UiJ0FyJCF8YUxzQ';
