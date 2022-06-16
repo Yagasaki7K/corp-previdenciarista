@@ -120,7 +120,7 @@ const NavBar = ({ ischangeColor = true }) => {
                                         )
                                     })}
                                 </div>
-                                : null || {}
+                                : null
                             }
                         </li>
                         <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* PREÇO*/}</a></li>
@@ -135,7 +135,7 @@ const NavBar = ({ ischangeColor = true }) => {
                                         )
                                     })}
                                 </div>
-                                : null || {}
+                                : null
                             }
                         </li>
                         <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* LOGIN */}</a></li>
@@ -154,7 +154,7 @@ const NavBar = ({ ischangeColor = true }) => {
                                         )
                                     })}
                                 </div>
-                                : null || {}
+                                : null
                             }
                         </li>
                         <li><a href="#" className="block text-2xl text-gray-600 font-semibold px-2 py-4">{/* PREÇO */}</a></li>
@@ -169,7 +169,7 @@ const NavBar = ({ ischangeColor = true }) => {
                                         )
                                     })}
                                 </div>
-                                : null || {}
+                                : null
                             }
                         </li>
                         <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* LOGIN */}</a></li>

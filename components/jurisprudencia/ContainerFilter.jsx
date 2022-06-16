@@ -26,7 +26,7 @@ const ContainerTitleFilterSearch = ({ queryParams, propDecisoes, propsHasmore, p
 
   const onChangeHandler = (event) => {
     const field = event.target.name;
-    const value = event.target.value || null || {};
+    const value = event.target.value || null;
 
     setInputSearch(value);
     setIsLoading(true);

@@ -16,8 +16,8 @@ export const getStaticProps = async ({ context }) => {
   const originalUrl = getCanonicalUrl(context);
 
   const params = {
-    tipoDeBeneficio: null || {},
-    q: null || {},
+    tipoDeBeneficio: null,
+    q: null,
   };
 
   const { decisoes, ...rest } = await fetchJurisprudencias(params);

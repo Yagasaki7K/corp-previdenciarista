@@ -5,19 +5,19 @@ export const OptionFooter = [
       {
         text: "Buscar petições previdenciárias",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Planos de assinaturas",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Benefícios previdenciários",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       }
     ]
@@ -28,37 +28,37 @@ export const OptionFooter = [
       {
         text: "Cálculos previdenciários",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Liquidação de Sentença",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Revisão da Vida Toda",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Petições",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Clientes",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Escritório",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       }
     ]
@@ -69,31 +69,31 @@ export const OptionFooter = [
       {
         text: "Petições previdenciárias",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Petições iniciais",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Recursos",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Contrarazões",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Requerimentos previdenciaristas",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       }
     ]
@@ -104,31 +104,31 @@ export const OptionFooter = [
       {
         text: "História",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Quem somos",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Equipe",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Ajuda",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {
         text: "Siga-nos no Facebook",
         isHref: "",
-        isCor: null || {},
+        isCor: null,
         isFont: ""
       },
       {

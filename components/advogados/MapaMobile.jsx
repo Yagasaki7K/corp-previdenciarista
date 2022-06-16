@@ -10,8 +10,8 @@ mapboxgl.accessToken =
 
 const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' }) => {
   const [escritorios, setEscritorios] = useState([]);
-  const mapEl = useRef(null || {});
-  const [escritorioSelecionado, setEscritorioSelecionado] = useState(null || {});
+  const mapEl = useRef(null);
+  const [escritorioSelecionado, setEscritorioSelecionado] = useState(null);
   const [coord, setCoord] = useState({
     lng: 5,
     lat: 34,
@@ -101,7 +101,7 @@ const MapaMobile = ({ isShowing, close, localizationNavegador, place = 'Brazil' 
       if (find) {
         setEscritorioSelecionado(find.escritorio);
       } else {
-        setEscritorioSelecionado(null || {});
+        setEscritorioSelecionado(null);
       }
     });
 

@@ -43,9 +43,9 @@ function Escritorio({catalogo, membros, queryParams, originalUrl}) {
     phoneTwo: ''
   })
   const [state, setState] = useState({
-    servico: null || {},
+    servico: null,
     isLoadingMore: false,
-    loadingPeticaoId: null || {},
+    loadingPeticaoId: null,
     showMailModal: false,
     showPhoneModal: false,
     fildsValue: {

@@ -123,7 +123,7 @@ const ModalPhone = ({ isShowing, close, phone = "", phoneTwo }) => {
       </>,
       document.querySelector('#__next')
     )
-    : null || {};
+    : null;
 };
 
 export default ModalPhone;

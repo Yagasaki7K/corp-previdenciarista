@@ -52,10 +52,10 @@ const JurisprudenciaCard = ({ onClick, disableClick, tags, onCopyContent, ...pro
             </div>
           );
         } else {
-          return null || {};
+          return null;
         }
       }, this)
-      .filter((i) => i !== null || {})
+      .filter((i) => i !== null)
       .slice(0, 3);
   };
   
@@ -91,10 +91,10 @@ const JurisprudenciaCard = ({ onClick, disableClick, tags, onCopyContent, ...pro
             </p>
           );
         } else {
-          return null || {};
+          return null;
         }
       }, this)
-      .filter((i) => i !== null || {});
+      .filter((i) => i !== null);
       
       
       return textoFull
@@ -155,7 +155,7 @@ const JurisprudenciaCard = ({ onClick, disableClick, tags, onCopyContent, ...pro
         </div>
         <div className="flex">
           <div className={classText}>
-            {!props.possuiInteiroTeor ? null || {} : (
+            {!props.possuiInteiroTeor ? null : (
                 <div
                   // className="flex"
                   onClick={(ev) => {

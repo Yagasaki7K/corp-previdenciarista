@@ -13,7 +13,7 @@ const MapCatalogo = ({
   localizationNavegador,
   showMapModal = false,
 }) => {
-  const mapEl = useRef(null || {});
+  const mapEl = useRef(null);
   const [modalMapaOpen, setModalMapaOpen] = useState(false);
   const [coord, setCoord] = useState({
     lng: 5,

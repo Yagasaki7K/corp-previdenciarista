@@ -38,9 +38,9 @@ const HeaderAdvogados = ({
     await setCidades((prevState) => ({
       ...prevState,
       listaCidadeOpen: false,
-      cidadeSelecionadaId: null || {},
+      cidadeSelecionadaId: null,
       filterCidade: {
-        nome: null || {},
+        nome: null,
       },
     }),
     );
@@ -54,8 +54,8 @@ const HeaderAdvogados = ({
     setCidades((prevState) => ({
       ...prevState,
       listaCidadeOpen: true,
-      cidadeSelecionadaId: null || {},
-      cidadeEstadoSelecionado: null || {},
+      cidadeSelecionadaId: null,
+      cidadeEstadoSelecionado: null,
       filterCidade: {
         nome: value,
       },
