@@ -111,9 +111,9 @@ const NavBar = ({ ischangeColor = true }) => {
                 <div className="hidden mobile-menu md:hidden">
                     <ul className="mt-4">
                         <li>
-                            <a onClick={navProduct} className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4 hidden">PRODUTO</a>
+                            <a onClick={navProduct} className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* PRODUTO */}</a>
                             {openSubMenuProduct ?
-                                <div className="bg-white mx-3.5	py-3.5 hover-item">
+                                <div className="bg-white mx-3.5	py-3.5 hover-item grid grid-template-columns">
                                     {OptionSubMenuProduct.map((data, index) => {
                                         return (
                                             <SubMenu key={index} props={data} />
@@ -123,10 +123,10 @@ const NavBar = ({ ischangeColor = true }) => {
                                 : null
                             }
                         </li>
-                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">PREÇO</a></li>
-                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">PETIÇÕES</a></li>
+                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* PREÇO*/}</a></li>
+                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* PETIÇÕES*/}</a></li>
                         <li>
-                            <a onClick={navTools} className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">FERRAMENTAS</a>
+                            <a onClick={navTools} className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* FERRAMENTAS*/}</a>
                             {openSubMenuTools ?
                                 <div className="bg-white mx-3.5	py-3.5" >
                                     {OptionSubMenuTools.map((data, index) => {
@@ -138,16 +138,16 @@ const NavBar = ({ ischangeColor = true }) => {
                                 : null
                             }
                         </li>
-                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">LOGIN</a></li>
+                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* LOGIN */}</a></li>
                     </ul>
                 </div>
 
                 <div className="hidden mobile-menuu md:invisible">
                     <ul className="">
                         <li>
-                            <a onClick={navProduct} className="block text-2xl text-gray-600 font-semibold px-2 py-4">PRODUTO</a>
+                            <a onClick={navProduct} className="block text-2xl text-gray-600 font-semibold px-2 py-4">{/* PRODUTO */}</a>
                             {openSubMenuProduct ?
-                                <div className="bg-white mx-3.5	py-3.5" >
+                                <div className="bg-white mx-3.5	py-3.5 hover-item grid grid-template-columns" >
                                     {OptionSubMenuProduct.map((data, index) => {
                                         return (
                                             <SubMenu key={index} props={data} />
@@ -157,12 +157,12 @@ const NavBar = ({ ischangeColor = true }) => {
                                 : null
                             }
                         </li>
-                        <li><a href="#" className="block text-2xl text-gray-600 font-semibold px-2 py-4">PREÇO</a></li>
-                        <li><a href="#" className="block text-2xl text-gray-600 font-semibold px-2 py-4">PETIÇÕES</a></li>
+                        <li><a href="#" className="block text-2xl text-gray-600 font-semibold px-2 py-4">{/* PREÇO */}</a></li>
+                        <li><a href="#" className="block text-2xl text-gray-600 font-semibold px-2 py-4">{/* PETIÇÕES */}</a></li>
                         <li>
-                            <a onClick={navTools} className="block text-2xl text-gray-600 font-semibold px-2 py-4">FERRAMENTAS</a>
+                            <a onClick={navTools} className="block text-2xl text-gray-600 font-semibold px-2 py-4 ">{/* FERRAMENTAS */}</a>
                             {openSubMenuTools ?
-                                <div className="bg-white mx-3.5	py-3.5" >
+                                <div className="bg-white mx-3.5	py-3.5 hover-item grid grid-template-columns" >
                                     {OptionSubMenuTools.map((data, index) => {
                                         return (
                                             <SubMenu key={index} props={data} />
@@ -172,7 +172,7 @@ const NavBar = ({ ischangeColor = true }) => {
                                 : null
                             }
                         </li>
-                        <li><a href="#" className="block text-2xl text-gray-600 font-semibold px-2 py-4">LOGIN</a></li>
+                        <li><a href="#" className="block text-sub_title20 text-gray-600 font-semibold px-2 py-4">{/* LOGIN */}</a></li>
                     </ul>
                 </div>
             </nav>
@@ -182,7 +182,7 @@ const NavBar = ({ ischangeColor = true }) => {
                 <div
                     // onMouseLeave={() => setOpenSubMenuProduct((prevState) => !prevState)}
                     // style={{position: "absolute", zIndex: 99, left: 650}}
-                    className={`flex justify-center items-center bg-prev-default-text_white border`}
+                    className={`flex lihidden justify-center items-center bg-prev-default-text_white border hover-item grid grid-template-columns`}
                 >
                     <div>
                         {OptionSubMenuProductDesktopOne.map((data, index) => {

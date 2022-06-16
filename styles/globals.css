@@ -70,25 +70,37 @@ a {
     display: flex;
     width: 200px;
     height: 300px;
+    margin-left: 400px;
+    background: #fff;
+    z-index: 2;
 }
 
 .hover-item a{
-    display: grid;
-    grid-template-columns: 200px 200px;
+    color: #909090;
+    
+}
+
+.grid {
+	display: grid;
+}
+
+.grid-template-columns {
+	grid-template-columns: 300px 300px;
+}
+
+.lihidden {
+    list-style: none;
 }
 
 .hover-item img {
     width: 20px;
+    margin-top: 15px;
     height: 20px;
     margin-right: 200px;
 }
 
 .hover-item span {
     font-weight: bold;
-}
-
-.hidden {
-    display: hidden;
 }
 
 .containerCarousel {
