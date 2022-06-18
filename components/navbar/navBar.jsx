@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React, { useState } from "react";
+import Image from 'next/image'
 import SubMenu from './SubMenu';
 import { OptionSubMenuProduct, OptionSubMenuProductDesktopOne, OptionSubMenuProductDesktopTwo, OptionSubMenuTools } from './Options';
 import Link from "next/link";
@@ -45,16 +46,18 @@ const NavBar = ({ ischangeColor = true }) => {
                         <Link href="/" className="flex items-center justify-center">
                             {
                                 ischangeColor ? (
-                                    <img
+                                    <Image
                                         src="/images/logo-nav-bar/desktop-blue.svg"
                                         alt="Logo"
-                                        style={{ width: "214px", height: "34px" }}
+                                        width={214}
+                                        height={34}
                                     />
                                 ) : (
-                                    <img
+                                    <Image
                                         src="/images/logo-nav-bar/desktop-white.svg"
                                         alt="Logo"
-                                        style={{ width: "214px", height: "34px" }}
+                                        width={214}
+                                        height={34}
                                     />
                                 )
                             }
